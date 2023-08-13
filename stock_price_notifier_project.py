@@ -6,10 +6,10 @@ import ssl
 import smtplib
 
 
-service = Service(r"C:\Users\gadp\Downloads\chromedriver_win32 (1)")
-sender = "gadip316@gmail.com"
-e_pass = "qawsuegogbcycmxn"
-receiver = "gadip316@gmail.com"
+service = Service(r"******")
+sender = ******
+e_pass = ******
+receiver = *****
 subject = "Daily Stock Price Notification"
 contents = """Stock Price Update
 """
